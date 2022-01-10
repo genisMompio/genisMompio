@@ -1,4 +1,8 @@
 ### Cybersecurity student 👋
+----------------------------
+
+- 🔭 I’m currently working on SANTDALMAI S.A.U
+- 🌱 I’m currently learning CETI in Montilivi Girona
 
 <!--
 **genisMompio/genisMompio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
